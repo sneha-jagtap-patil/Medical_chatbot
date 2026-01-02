@@ -11,3 +11,5 @@ touch README.md
 touch app.py
 touch research/trials.ipynb
 touch requirements.txt
+
+eacho "Project structure created successfully."
