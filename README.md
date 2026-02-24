@@ -24,7 +24,7 @@ echstack Used:
     Flask
     GPT
     Pinecone
-AWS-CICD-Deployment-with-Github-Actions.......
+AWS-CICD-Deployment-with-Github-Actions...
 Login to AWS console.
 Create IAM user for deployment
 1. EC2 access : It is virtual machine
